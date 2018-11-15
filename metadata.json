@@ -1,7 +1,7 @@
 {
   "name": "philhans-ssh",
   "version": "0.1.0",
-  "author": "Philip Hansen <philip.hansen@usaa.com>",
+  "author": "Philip Hansen <theotherphilip@gmail.com>",
   "summary": "a test",
   "license": "Apache-2.0",
   "source": "https://github.com/philhans/puppet-ssh",
@@ -10,6 +10,6 @@
   "dependencies": [
     {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
   ],
-  "data_provider": null
+  "data_provider": "function"
 }
 
